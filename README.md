@@ -2,6 +2,7 @@
 Analyzing how travelers in February 2015 expressed their feelings on Twitter.
 This application is an interactive, data dashboard made with Streamlit library in Python 
 to analyze the sentiment of Tweets about US Airlines.
+
 Functionalities that the dashboard offers:
 * Displaying Tweets in the Sidebar
 * Plotting Interactive Bar Plots and Pie Charts
